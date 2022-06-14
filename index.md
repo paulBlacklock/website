@@ -7,42 +7,12 @@
 
 <meta name="description" content="Rails Developer" />
 
-<link rel="stylesheet" href="/_bridgetown/static/index.NPORH3V4.css" />
-<script src="/_bridgetown/static/index.HAUJT53R.js" defer></script>
-<script type="module">let lastmod = 0
-function startReloadConnection() {
-  const evtSource = new EventSource("/_bridgetown/live_reload")
-  evtSource.onmessage = event => {
-    if (event.data == "reloaded!") {
-      location.reload()
-    } else {
-      const newmod = Number(event.data)
-      if (lastmod > 0 && newmod > 0 && lastmod < newmod) {
-        location.reload()
-      } else {
-        lastmod = newmod
-      }
-    }
-  }
-  evtSource.onerror = event => {
-    if (evtSource.readyState === 2) {
-      // reconnect with new object
-      evtSource.close()
-      console.warn("Live reload: attempting to reconnect in 3 seconds...")
-
-      setTimeout(() => startReloadConnection(), 3000)
-    }
-  }
-}
-setTimeout(() => {
-  startReloadConnection()
-}, 500)
-</script>
+<link rel="stylesheet" href="index.css" />
 
   </head>
   <body class="default ">
     <header>
- <img src="/images/logo.svg" alt="Logo" />
+ <img src="logo.svg" alt="Logo" />
 </header>
 
 <nav>
