@@ -6,7 +6,7 @@
 
 <meta name="description" content="Rails Developer" />
 
-<link rel="stylesheet" href="index.css" />
+<link rel="stylesheet" href="index2.css" />
 
   </head>
   <body class="default ">
