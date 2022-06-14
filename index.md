@@ -37,8 +37,9 @@
 <p>Love to develop and deliver exciting new ideas to market with clients.</p>
 
 <p>Sincerely,</p>
-      <p1><b>Paul Blacklock</b></p1>
+<p><b>Paul Blacklock</b></p>
 
+      <p> </p>
 <p>Get in touch, Here's my email address: <a href="mailto:paulblacklock@proton.me">paulblacklock@proton.me</a> </p> 
 <p> 2022 &#169; Paul Blacklock. </p>
  
