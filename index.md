@@ -38,8 +38,8 @@
 
 <p>Sincerely,</p>
 <p><b>Paul Blacklock</b></p>
-
-      <p> </p>
+    </main>
+     
 <p>Get in touch, Here's my email address: <a href="mailto:paulblacklock@proton.me">paulblacklock@proton.me</a> </p> 
 <p> 2022 &#169; Paul Blacklock. </p>
  
