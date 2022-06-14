@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -43,7 +42,7 @@
 <p>Love to develop and deliver exciting new ideas to market with clients.</p>
 
 <p>Sincerely,</p>
-<p1>Paul Blacklock</p1>
+      <p1><b>Paul Blacklock</b></p1>
 
 
     </main>
