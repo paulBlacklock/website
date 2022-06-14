@@ -43,9 +43,7 @@
       <p1><b>Paul Blacklock</b></p1>
 
 
-    </main>
-
-  
+     
    Get in touch, Here's my email address: <a href="mailto:paulblacklock@proton.me">paulblacklock@proton.me</a>
  
  <p> 2022 &#169; Paul Blacklock. 
