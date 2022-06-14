@@ -33,7 +33,7 @@
 <li> Node.js </li>
 </ul>
 
-<p>I am presently working on a full time website deployment project for 2022. Will be available to hire; such as building iOS/Android apps and web development work in early 2023.</p>
+<p>I am presently working on a full time website project for 2022. Will be available to hire; such as building iOS/Android apps and web development work in early 2023.</p>
 <p>Love to develop and deliver exciting new ideas to market with clients.</p>
 
 <p>Sincerely,</p>
