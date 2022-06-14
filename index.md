@@ -14,9 +14,6 @@
  <img src="logo.svg" alt="Logo" />
 </header>
 
-<nav>
- 
-</nav>
     <main>
       <h3>Welcome | Bienvenue</h3>
 
@@ -42,9 +39,6 @@
 <p>Sincerely,</p>
       <p1><b>Paul Blacklock</b></p1>
 
-<p>
-     
-Get in touch, Here's my email address: <a href="mailto:paulblacklock@proton.me">paulblacklock@proton.me</a>
-      </p> 
- <p> 2022 &#169; Paul Blacklock. 
+<p>Get in touch, Here's my email address: <a href="mailto:paulblacklock@proton.me">paulblacklock@proton.me</a> </p> 
+<p> 2022 &#169; Paul Blacklock. </p>
  
