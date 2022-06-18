@@ -27,6 +27,7 @@
 
 <ul type="circle">
 <li> Ruby on Rails </li>
+<li> Phoenix/Elixir</li>
 <li> AngularJS </li>
 <li> Typescript/Javascript </li>
 <li> HTML5 | CSS3 | Bootstrap | Tailwind</li>
@@ -34,6 +35,9 @@
 </ul>
 
 <p>I am presently working on a full time website project for 2022. Will be available to hire; such as building iOS/Android apps and web development work in early 2023.</p>
+
+<p>Learning DENO during my time off. Striving to reduce vulnerabilities on the web. </p>
+
 <p>Love to develop and deliver exciting new ideas to market with clients.</p>
 
 <p>Sincerely,</p>
