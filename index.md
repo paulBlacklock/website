@@ -36,7 +36,7 @@
 
 <p>I am presently working on a full time website project for 2022. Will be available to hire; such as building iOS/Android apps and web development work in early 2023.</p>
 
-<p>Learning DENO during my time off. Striving to reduce vulnerabilities on the web. </p>
+<p>Learning the new DENO framework during my time off. A great looking platform that is striving to reduce vulnerabilities on the web. </p>
 
 <p>Love to develop and deliver exciting new ideas to market with clients.</p>
 
