@@ -19,7 +19,7 @@
 
 <p>Hello, nice to meet you and thank you for stopping by to visit my site.</p>
 
-<p>I’m Paul Blacklock. An independent App &amp; Web Developer using the Ruby on Rails framework along with modern technologies to build and quickly deploy responsive websites and apps to market.</p>
+<p>I’m Paul Blacklock. An independent App &amp; Web Developer using the Ruby on Rails framework along with modern technologies to build and deploy responsive beautiful websites and apps to market with speed.</p>
 
 <p><b>Custom software</b> with Ruby on Rails is fast and reliable.</p>
 
