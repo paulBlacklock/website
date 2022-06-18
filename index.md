@@ -36,9 +36,7 @@
 
 <p>I am presently working on a full time website project for 2022. Will be available to hire; such as building iOS/Android apps and web development work in early 2023.</p>
 
-<p>Learning the new DENO framework during my time off. A great looking platform that is striving to reduce vulnerabilities on the web. </p>
-
-<p>Love to develop and deliver exciting new ideas to market with clients.</p>
+<p>I love to work with clients to develop, build and deliver exciting new ideas to market.</p>
 
 <p>Sincerely,</p>
 <p><b>Paul Blacklock</b></p>
